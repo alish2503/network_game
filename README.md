@@ -1,4 +1,4 @@
-# Network Game (UDP Auto-Discovery)
+# Network Game "Rock paper scissors" (UDP Auto-Discovery)
 
 ## 🔄  Logic Overview
 
